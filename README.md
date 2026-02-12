@@ -26,3 +26,4 @@ See [demo.ipynb](notebooks/demo.ipynb)
 
 ## Example
 ![](data/dog_saliency_map.png)
+![](data/cat_saliency_map.png)

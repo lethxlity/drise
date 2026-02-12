@@ -1,5 +1,4 @@
-# mypy: disable-error-code="attr-defined"
-"""Awesome `drise` project!"""
+"""Drise Init file."""
 
 from importlib import metadata as importlib_metadata
 

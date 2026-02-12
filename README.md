@@ -8,6 +8,9 @@ This repository provides an experimental implementation of **D-RISE** (Detector 
 
 ## 🛠️ Installation
 
-Clone the repository and install dependencies:
+1. Install make
+2. Install Poetry
+
 
 ```bash
+make project-init

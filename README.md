@@ -10,7 +10,7 @@ This repository provides an experimental implementation of **D-RISE** (Detector 
 
 ## Installation
 
-This implementation based on this [Project Template](https://github.com/KaiL4eK/pyproject-cookiecutter)
+This implementation based on that [Project Template](https://github.com/KaiL4eK/pyproject-cookiecutter)
 
 1. Install make
 2. Install Poetry

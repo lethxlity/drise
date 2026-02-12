@@ -24,6 +24,6 @@ make project-init
 
 See [demo.ipynb](notebooks/demo.ipynb)
 
-## Example
+## Examples
 ![](data/dog_saliency_map.png)
 ![](data/cat_saliency_map.png)

@@ -10,6 +10,8 @@ This repository provides an experimental implementation of **D-RISE** (Detector 
 
 ## Installation
 
+This implementation based on this [Project Template](https://github.com/KaiL4eK/pyproject-cookiecutter)
+
 1. Install make
 2. Install Poetry
 
@@ -21,3 +23,7 @@ make project-init
 ## Usage
 
 See [demo.ipynb](notebooks/demo.ipynb)
+
+## Examples
+![](data/dog_saliency_map.png)
+![](data/cat_saliency_map.jpg)
